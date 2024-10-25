@@ -65,7 +65,7 @@ export const perguntas = [
                 texto: " Ignoraria e continuaria com seu trajeto, porém com muita atenção se não está sendo seguido ",
                 afirmacao: [
                     " A autopreservação pode ser uma reação natural em situações de incerteza. Sua decisão de seguir em frente mostra que, mesmo em um mundo difícil, a vigilância é necessária para garantir a própria segurança. ",
-                    " Mehor correr do que morrer"
+                    " Melhor correr do que morrer"
                 ]
             }
         ]
